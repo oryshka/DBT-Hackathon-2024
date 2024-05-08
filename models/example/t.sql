@@ -1,0 +1,1 @@
+select * from {{ source('SAAS', 'SAAS_SALES') }}

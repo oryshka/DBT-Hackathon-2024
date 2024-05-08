@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: SAAS
+    database: HACKATHON
+    schema: DATA_SAMPLE  
+    tables:
+      - name: SAAS_SALES
+      - name: SAAS_MARKETING_EXPENDITURES

@@ -1,0 +1,1 @@
+select * from HACKATHON.DATA_SAMPLE.SAAS_SALES
